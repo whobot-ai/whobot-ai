@@ -12,9 +12,19 @@
 
 ---
 
-*98% of call recipients can't tell whether they're talking to a human or AI.*
+*About 85% of call recipients mistake a WhoBot agent for a human (public figure on whobot.com).*
 
 </div>
+
+## Use WhoBot from Your AI Agent
+
+Send this to WorkBuddy, Claude Code, Codex, OpenClaw or Cursor to install the WhoBot phone skill:
+
+```text
+Please install the WhoBot phone skill: https://github.com/whobot-com/openclaw-whobot-skill
+```
+
+Then find benchmark phone agents, try a browser voice call, build an agent from recordings or documents, tune its script and upload leads for outbound calls — all in natural language. [Docs](https://whobot-com.github.io/openclaw-whobot-skill/) · [Skill source](https://github.com/whobot-ai/skills) · [ClawHub](https://clawhub.ai/whobot/whobot-phonecall-skill) · [ModelScope](https://modelscope.cn/skills/WhoBot/whobot-phonecall-skill)
 
 ## Why Phone Calls
 
@@ -22,7 +32,7 @@ The phone call is the oldest and most powerful connection in business.
 
 A good call builds trust in 30 seconds — something no text message can do. We taught AI this craft: not a cold IVR menu, but a warm, rhythmic, and perceptive conversation.
 
-> 10x cost reduction. 100% renewal rate among mid-to-large customers.
+> 300+ enterprise customers, 300M+ calls, and a 100% renewal rate among mid-to-large customers.
 > These aren't slogans. They're delivered numbers.
 
 ## Core Capabilities

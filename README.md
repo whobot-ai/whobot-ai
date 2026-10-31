@@ -12,9 +12,19 @@
 
 ---
 
-*98% 的通话对象分不清电话那头是真人还是 AI。*
+*约 85% 的通话对象会把呼波特数字员工误认为真人（官网公开数据）。*
 
 </div>
+
+## 在你的 AI 助手里用呼波特
+
+把这句话发给 WorkBuddy、Claude Code、Codex、OpenClaw、Cursor 等 AI Agent，一句话装上呼波特电话 Skill：
+
+```text
+请帮我安装呼波特的电话 Skill https://github.com/whobot-com/openclaw-whobot-skill
+```
+
+装好后用说话的方式找标杆员工、网页体验通话、用录音或资料创建员工、调优话术、上传线索外呼。[使用文档](https://whobot-com.github.io/openclaw-whobot-skill/) · [Skill 源码](https://github.com/whobot-ai/skills) · [ClawHub](https://clawhub.ai/whobot/whobot-phonecall-skill) · [ModelScope](https://modelscope.cn/skills/WhoBot/whobot-phonecall-skill)
 
 ## 为什么是电话
 
@@ -22,7 +32,7 @@
 
 一通好的电话，能在 30 秒内建立信任 — 这是任何文字消息做不到的事。我们让 AI 继承了这门手艺：不是冷冰冰的语音菜单，而是有温度、有节奏、有判断力的真实对话。
 
-> 成本降低 10 倍。中大型客户续费率 100%。
+> 300+ 企业客户，累计 3 亿+ 通电话，中大型客户续约率 100%。
 > 这不是 slogan，是交付出来的数字。
 
 ## 核心能力
