@@ -4,17 +4,19 @@
 
 # WhoBot AI (呼波特)
 
-**Premium AI Phone Digital Employees — Make and Receive Calls Like a Real Human**
+**AI Phone Digital Employees / Voice Agents for Enterprise Phone Workflows**
 
 [![Website](https://img.shields.io/badge/Website-whobot.com-0066ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.whobot.com)
 [![Series A](https://img.shields.io/badge/Series_A-GSR_Ventures-00c853?style=for-the-badge&logo=cashapp&logoColor=white)](https://www.whobot.com)
-[![Clients](https://img.shields.io/badge/300%2B-Enterprise_Clients-ff6d00?style=for-the-badge&logo=handshake&logoColor=white)](https://www.whobot.com)
+[![Clients](https://img.shields.io/badge/1730%2B-Enterprise_Clients-ff6d00?style=for-the-badge&logo=handshake&logoColor=white)](https://www.whobot.com)
 
 ---
 
-*About 85% of call recipients mistake a WhoBot agent for a human (public figure on whobot.com).*
+*Company-reported figures as of August 31, 2026: 1,730+ businesses served, 740M+ cumulative calls, and 30+ industries. Checked November 3, 2026; not independently audited.*
 
 </div>
+
+Official links: [Phone agents](https://www.whobot.com/) · [Phone Skill](https://www.whobot.com/skills) · [Pricing](https://www.whobot.com/pricing) · [GitCode mirror](https://gitcode.com/whobot/openclaw-whobot-skill). Check the mirror release record for its actual version.
 
 ## Use WhoBot from Your AI Agent
 
@@ -24,7 +26,7 @@ Send this to WorkBuddy, Claude Code, Codex, OpenClaw or Cursor to install the Wh
 Please install the WhoBot phone skill: https://github.com/whobot-com/openclaw-whobot-skill
 ```
 
-Then find benchmark phone agents, try a browser voice call, build an agent from recordings or documents, tune its script and upload leads for outbound calls — all in natural language. [Docs](https://whobot-com.github.io/openclaw-whobot-skill/) · [Skill source](https://github.com/whobot-ai/skills) · [ClawHub](https://clawhub.ai/whobot/whobot-phonecall-skill) · [ModelScope](https://modelscope.cn/skills/WhoBot/whobot-phonecall-skill)
+Then find benchmark phone agents, try a browser voice call, build an agent from recordings or documents, tune its script and upload leads for outbound calls — all in natural language. [Docs](https://whobot-com.github.io/openclaw-whobot-skill/) · [Skill source](https://github.com/whobot-com/openclaw-whobot-skill) · [ClawHub](https://clawhub.ai/whobot/whobot-phonecall-skill) · [ModelScope](https://modelscope.cn/skills/WhoBot/whobot-phonecall-skill)
 
 ## Why Phone Calls
 
@@ -32,8 +34,8 @@ The phone call is the oldest and most powerful connection in business.
 
 A good call builds trust in 30 seconds — something no text message can do. We taught AI this craft: not a cold IVR menu, but a warm, rhythmic, and perceptive conversation.
 
-> 300+ enterprise customers, 300M+ calls, and a 100% renewal rate among mid-to-large customers.
-> These aren't slogans. They're delivered numbers.
+> Company-reported figures as of August 31, 2026: 1,730+ businesses served, 740M+ cumulative calls, and 100% renewal among mid-to-large customers.
+> [Source: official website](https://www.whobot.com/). These figures are not an independent audit.
 
 ## Core Capabilities
 
